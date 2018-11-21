@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/selectclient.dir/selectclient.cpp.o  -o selectclient -rdynamic 

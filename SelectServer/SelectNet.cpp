@@ -71,6 +71,8 @@ int SelectNet::Update( void )
                     // 处理客户端发来的数据
         HandleData();
     }
+	
+	RefreshClients();
    	 
 }
 

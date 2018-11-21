@@ -13,7 +13,7 @@ using namespace std;
 #define MAXLINE 1024
 int main(int argc, char *argv[])
 {
-	char *servInetAddr = "104.225.148.179";
+	char *servInetAddr = "127.0.0.1";
 	int socketfd;
 	struct sockaddr_in sockaddr;
 	char recvline[MAXLINE], sendline[MAXLINE];
